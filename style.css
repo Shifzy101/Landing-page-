@@ -1,0 +1,64 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: teal;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  font-size:15px;
+
+}
+header{
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  font-family:"Momo Trust Display", sans-serif;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: darkslategray;
+  border: none
+}
+.nav-links{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  margin: 0%;
+  text-decoration: none;
+  margin-inline-start: 10px;
+}
+button{
+  background-color: darkcyan;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: cadetblue;
+}
+section{
+  padding: 10px;
+  margin: 10px;
+  background-color: darkslategray;
+  border-radius: 5px;
+  border: none;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+  justify-content: space-between;
+
+}
+section:hover{
+  background-color: cadetblue;
+}
+footer{
+  text-align: center;
+  padding: 10px;
+  font-size: 15px;
+  margin: 10px;
+
+
+}
+footer:hover{
+  background-color: darkslategray;
+}
